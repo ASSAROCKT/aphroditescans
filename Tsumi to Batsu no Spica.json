@@ -4,6 +4,9 @@
   "artist": "Inoryuu Hajime",
   "author": "Seo Chishio",
   "cover": "https://scyllacomics.xyz/storage/covers/68518da200031.jpg",
+  "genres": ["Action", "Drama", "Fantasy", "Martial Arts", "Modern", "Mystery", "Psychological", "School Life", "Supernatural", "Tragedy"],
+  "themes": ["Bullying", "Teacher-Student Relationship", "School"],
+  "demographic": "Shounen",
   "chapters": {
     "18": {
       "title": "Nameless Malice (7)",
