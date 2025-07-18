@@ -4,6 +4,9 @@
   "artist": "Iwakuni Hirohito",
   "author": "Iwakuni Hirohito",
   "cover": "https://scyllacomics.xyz/storage/covers/68668e5257a43.jpg",
+  "genres": ["Action", "Drama", "Fantasy", "Martial Arts", "Modern", "Mystery", "Psychological", "School Life", "Supernatural", "Tragedy"],
+  "themes": ["Bullying", "Teacher-Student Relationship", "School"],
+  "demographic": "Shounen",
   "chapters": {
     "1": {
       "title": "1",
