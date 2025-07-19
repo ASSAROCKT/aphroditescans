@@ -4,16 +4,14 @@
   "artist": "Inoryuu Hajime",
   "author": "Seo Chishio",
   "cover": "https://scyllacomics.xyz/storage/covers/68518da200031.jpg",
-  "genres": ["Action", "Drama", "Fantasy", "Martial Arts", "Modern", "Mystery", "Psychological", "School Life", "Supernatural", "Tragedy"],
-  "themes": ["Bullying", "Teacher-Student Relationship", "School"],
-  "demographic": "Shounen",
   "chapters": {
     "1": {
       "title": "Spica of Sin and Punishment (1)",
       "volume": "",
       "last_updated": "1723708800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/1-220bd3eb56f5f94ead6b4816a41043bb3198ecdd3664836e7e470df705596412.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/1-220bd3eb56f5f94ead6b4816a41043bb3198ecdd3664836e7e470df705596412.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/2-68dc768cd22162f785552072e58decc2445349e33001b585153f542cb2aa1a24.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/3-9b2fb2bf9d3d24b8de7382847ee33df01c7a5c280165259a4c29d0534c8fc55d.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/4-89c02216eed00832123913013311e6737d2017a17fe45c570e78732f98e24be7.png",
@@ -60,7 +58,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/45-4885c1e7abb56aa0607e4b82fd6443b2f4c50ac0f2ed6ebe8f5df70649034ca5.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/46-158ef8b3fecfce3e1a3eef9402e7fe31d949da950599bf92161346a4d454d046.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/47-4d0067812f8c46e1924257deed2ab9a414458975454e2ddb55246a8a6d07171a.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/48-ef43e20f3b224d84056926d4a358a0d12d507981732a9a9af17cdd218f95b2e2.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/7fda45c003616d9121f0f0420effcf03/48-ef43e20f3b224d84056926d4a358a0d12d507981732a9a9af17cdd218f95b2e2.png"
+        ]
       }
     },
     "2": {
@@ -68,7 +67,8 @@
       "volume": "",
       "last_updated": "1724572800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/1-c14bbe407c6647e013407a4f55d8dd516a7c2ff15aca1a1085b5d42abee30354.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/1-c14bbe407c6647e013407a4f55d8dd516a7c2ff15aca1a1085b5d42abee30354.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/2-580116df24e2fdbdc934bc81f3245a676d5ed644a16157b9c1887eec65159614.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/3-549ad5395dfc0194312fc243ff6c9387463cf901c4ed532d19225193c2543d58.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/4-67d8649582ff41ea1dcbb9cf0f3e4468c73c875c7f0a704852f9391c3afbb231.png",
@@ -158,7 +158,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/88-44e6b8093a5ab1351b17b1d0cfb9b80458a01a3c0f722ec6f709ed710a3be2fe.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/89-8104e0e3f7f73e146c37f9a1a2640c1a55d5c4e5ea5774151d5156ad7e6cad07.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/90-5361a6107dc1112a90177ad561559059d392debad9a6291fc2b78b6a113cb2e8.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/91-fe96f7cfa1155082d5454862d4765f391a3e689d720b2c13f89c1c47bd889bb4.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/33a335b1b1c5f9b01126821f62ac9f89/91-fe96f7cfa1155082d5454862d4765f391a3e689d720b2c13f89c1c47bd889bb4.png"
+        ]
       }
     },
     "3": {
@@ -166,7 +167,8 @@
       "volume": "",
       "last_updated": "1725004800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/1-a5ea0a34dbd8f69310b08d988c7ee021f22bfecd1f9d99595fbd9d6866ac4d60.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/1-a5ea0a34dbd8f69310b08d988c7ee021f22bfecd1f9d99595fbd9d6866ac4d60.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/2-201f97c32f48fdc02b190d4ccb6d3e30ca2f8bb1352b851df02df69802922392.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/3-8eceb8913771285f2b6455f98b1479eaeaf6cd568ddc08dd8d51daef6452e0b2.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/4-b6225cd374a2e3e509134b1c149a80bd9cb5424d7f2555f85c1cbc96a6aa6818.png",
@@ -196,7 +198,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/28-1574154702f7ae240f88660d8db84b33da79346699c4b53457f3e6f54a0a13d7.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/29-b6603ced7d4153eeec59b7c25de8fead2a1e70dcfe0ae8f2afa9b0525b3b8da5.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/30-facf205297114a267398388fe4ed302f5d162320269792b42b74736def88bee4.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/31-caa6e7b62847fe391e3aeed73520eba17f2dcff5b98bb10525f8f750dc9216ca.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/6a22251a5a16f09118099a51c5af78eb/31-caa6e7b62847fe391e3aeed73520eba17f2dcff5b98bb10525f8f750dc9216ca.png"
+        ]
       }
     },
     "4": {
@@ -204,7 +207,8 @@
       "volume": "",
       "last_updated": "1725436800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/1-9fbe1da87da96e9474bbe4985f023ff5c181b953f0240f1ce587d91e899c5b81.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/1-9fbe1da87da96e9474bbe4985f023ff5c181b953f0240f1ce587d91e899c5b81.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/2-40903c5527c97254f414b6323de2cc947a0ccab9ddd9531bd86c7826e0ccc81e.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/3-d06d2d2e2d5a4a089917a7ecf0cc007de208d81260f16245b19edd1894b7ddee.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/4-ca9588ca32ef20a11be00db6e83e78917205d5a5a4db58e63964742a2a826e59.png",
@@ -225,7 +229,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/19-5e87219e314c5eed86877270f6eb6ca9440719a15df0d9e0357ea6954506f883.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/20-f34e4fb890f4e2b213db6d562f4c9a59cc1d2b8ebffee1aa4b15672049ff2b7b.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/21-9a81ad7895db041c7d81da8e517e7e0baa88d33d4cc596f93c7789df2d2e6068.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/22-5e0973e7e15041c5573196fdcdbdd76fa0528e113c9217d4b92738e40bfad68d.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/13539baf7e284301f4e5f0593a62d099/22-5e0973e7e15041c5573196fdcdbdd76fa0528e113c9217d4b92738e40bfad68d.png"
+        ]
       }
     },
     "5": {
@@ -233,7 +238,8 @@
       "volume": "",
       "last_updated": "1726300800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/1-2773bb6328a248ad9612b84a51b8af5be91c50646040709cf5e5550d3ee585e2.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/1-2773bb6328a248ad9612b84a51b8af5be91c50646040709cf5e5550d3ee585e2.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/2-2df5a0877b5c12e5b6051dc32bb06f878966ccc0dfa8f3e82dccf899a68e32a1.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/3-62782e6c14d2c248e4ba6d02f98519c2b6be64350f8a230df7167a36aff33adb.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/4-6a77919ec8be8fdf7dd38f4bb42150e784adde5f4770c066ad72ed9122fb2f2a.png",
@@ -254,7 +260,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/19-1badcf6e661b965b022dd02abb3cabf2d4f3cb66857b90e19f4a528fd5a1c45b.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/20-1acc1e46574df65099c999433c6ff23d975b9f00e0cdaac3f92cb27eac028e43.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/21-f729ccae0d7a3ddb46ef21e7f491a32841eef1d5ab9eeaaa4936d32199ef1d89.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/1fc046ace887dd90391153666656f4dc/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "6": {
@@ -262,7 +269,8 @@
       "volume": "",
       "last_updated": "1726732800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/1-bb2a110d76bd651521fe8753db9543e13726826f87a541bc2ab1dd0d1e75bddd.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/1-bb2a110d76bd651521fe8753db9543e13726826f87a541bc2ab1dd0d1e75bddd.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/2-63675091c15c348e5bcedae59acde01b5f19ddcd3506b358ca452f122e1ca318.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/3-0c858baefeec2b7c4f545b232a71c46ca4890d60ec599fad2174a7b8bb34c2a4.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/4-ec8baac07be9c0a5b4a46386b93f12c5e6c678a45b18e7ce484b410ca45872cc.png",
@@ -283,7 +291,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/19-03e2ab3a3a417c329e75a278eec62a02c6406c5b64ecb9360f1ca6f684eab47c.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/20-0a314ee04533f5f8ec70e6adf7370f258442864fa266c00f7e4c06802541bbef.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/21-3904e4d2480111f7c8e5243e5db4bbe08c960c8283ca50398d282c0929e0fa15.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/8da26bca407d57dc70a79582428bea60/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "7": {
@@ -291,7 +300,8 @@
       "volume": "",
       "last_updated": "1727683200",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/1-069b0e4c871dc8b4a74bd4a74e041c2a5182d953a7a6390b109301efb1f13ab8.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/1-069b0e4c871dc8b4a74bd4a74e041c2a5182d953a7a6390b109301efb1f13ab8.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/2-f52074e2868d31e0958fec677bd65561041f0d0a9feb9ef7ab748c8cc48fd04f.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/3-11fe8f54e113b2733edb28e6c4bd980efcf7fd2f4464122c9dafd81ce1b66515.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/4-e68283ebeead84e9528cc3e28b52dc573315a86709bab177654dfb4ff0de9885.png",
@@ -313,15 +323,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/20-2020f5a7659ca51062130a2fbc9607f8d067ddeda341d35298064931260225c1.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/21-7dc831ef3b80f5a110fae32dff677a3949213f801e62fde4d1dd6d0bb995c5ab.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/22-8e80d09afbca9b6357c979dc8f3c90ec9a8b8db466b8d5b8ea422561cbabd04a.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/23-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
-      }
-    },
-    "7.5": {
-      "title": "Hiatus Illustration",
-      "volume": "",
-      "last_updated": "1728028800",
-      "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/7b789d2347fffdcdf4c6aaac23b25053/1-4bff24029d2ac5ffc29ad3c65b3b526ec736b6ef77b1e57a2d28fe72908d7b2a.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/7f8fef80577fdb9451c36e886b5e05ec/23-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "8": {
@@ -329,7 +332,8 @@
       "volume": "",
       "last_updated": "1728892800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/1-b4e090ce525391d95c2d8a4d4c375559c9725d9d80a7e0b2346ffb37e522f82c.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/1-b4e090ce525391d95c2d8a4d4c375559c9725d9d80a7e0b2346ffb37e522f82c.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/2-774d36b109f4ff2d11675b4b2254faf53a1dd7a1fe13169c1aa0daf0e7130da7.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/3-80e44d4dccb1bc3d87b0838f4cbbd0ccfcc11e0aaefd77cd342f45df34b81501.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/4-c619308cb19f5f141d3a3fae0c9ecb5368acdeea35486682c0b30402111bff37.png",
@@ -350,7 +354,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/19-c095dcdfdc201415194205d797d3a0d220d2d473ffb8ac11a4f9e53c5465a8cc.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/20-8eb903660b612d100b6f6e0df9462780bad6d3b03da02c493fafa73aad909d5d.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/21-c550c0a6b2359a0d316bfafcb2f2bcc7d308e5d7b3427b8d3e324a9f8585604b.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/762dce11d54dc59f9bd9d4bcd06191ff/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "9": {
@@ -358,7 +363,8 @@
       "volume": "",
       "last_updated": "1729756800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/1-805fcc0871ed3247541892b5a45310bafe51cf469c58118434b6c04c756f7039.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/1-805fcc0871ed3247541892b5a45310bafe51cf469c58118434b6c04c756f7039.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/2-0bbbf4d5d81db3cbf261c93618c19b41a9934b89b747698da045518a057c4de0.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/3-0a13e7cb0a12ed0f295bfb6a536c0e183c53ea49bfa0fc09a9f05e7a610658f7.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/4-525830a445d0613a1dbee65f397b3b5a0def0f7cce1d9f869e7de9a3cb23680b.png",
@@ -380,7 +386,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/20-c4e60f2ff33f1450f770208b864cd6099180cd2055619a22b358ce1c852d0ae1.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/21-17c57a33e891e5c24a5ffbe25d05b967c029688a544a30a1ee9398c79eaff872.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/22-cc79e1836914436c0a77a9bef8b94c3c62aa95c79aa2087271f0e0e460b452f3.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/23-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/c2b81c3e266a25c101b6c6764b9c262c/23-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "10": {
@@ -388,7 +395,8 @@
       "volume": "",
       "last_updated": "1730361600",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/1-aa1ef1e7d0da311ee753924eba8f2b5dbf48c4f396cf44e914f3385fbe1d87a4.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/1-aa1ef1e7d0da311ee753924eba8f2b5dbf48c4f396cf44e914f3385fbe1d87a4.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/2-868a296f80de3aec47b92433ed582396b9ef88cb134d0e04729c33d1bbffb311.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/3-a2068f3da43a7931e35819cd73280f004150a79c435a910a389cf25699ebf841.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/4-b884ecfc43785ceb7358b78d1f69c785463cf5a82c0dab02e29180a6c2020569.png",
@@ -405,7 +413,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/15-974d74fcf976c9f1540e60dc65aa8a14c7959679504f4091bffe013f2aec42d7.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/16-d07ed36abf5c11148c8e09f1a564a67862a220ac6a0d5f729db483558fcde7a7.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/17-07dd48510b508bc580e5dc7da9df9c2ff60435e920445b4abce8015b05ab22f2.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/18-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/b184d32b229ac6d2862ef73dd53bba0b/18-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "11": {
@@ -413,7 +422,8 @@
       "volume": "",
       "last_updated": "1731052800",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/1-10033ac1891705f3294000ef4000b1b824c647e82cf973aa60a0d263c5dfe26a.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/1-10033ac1891705f3294000ef4000b1b824c647e82cf973aa60a0d263c5dfe26a.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/2-4291da676062bf393b04a08fcb5424a649198b7a0ce7b011267f243df463a441.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/3-34c975b86ef6a89607c23eae1b15d5c5f04c05ff1fb2ac32bf568155ceaa6879.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/4-c1a3660374851c791ff74f994281df7a17a3a06709e87564dc4c0c788af036cd.png",
@@ -431,7 +441,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/16-67718ddd1413b82cea583a0251f5ab1dd4b7804524cc93344d1dbb290d6f852c.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/17-a4a3cb5d988c548aae2e77c70e0b9f34a6513d8e518c4319d8e200c8993a86c6.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/18-a1c589f8071de5afd64a5eb6bddd6b22aabcb82d66965f75dfe9c3d07fad9508.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/19-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/332b9d5f8a080af312a5bc90055fc653/19-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "12": {
@@ -439,7 +450,8 @@
       "volume": "",
       "last_updated": "1731657600",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/1-04deba93d3a86b8213efe492452d8a4ab25fa9b8ba56bd4901320ba4624e22e6.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/1-04deba93d3a86b8213efe492452d8a4ab25fa9b8ba56bd4901320ba4624e22e6.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/2-0c0f3a5ea5a1d0119974d9d451ccb51a223458bffb3e4776b17f1f201b26468d.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/3-cf659d26f9e216174a98cbe49982b72374f628dcce68b89d8045c75e2b270fc5.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/4-473ed2b17930f8f1d73ba840a378efd60181d513afe5ab7f273f89fcf99adf70.png",
@@ -462,15 +474,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/21-eed106a693b41c3af70b0c39319e78bb2684c93bf5a448d32802603b5eb45920.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/22-aac3ea9536d6c7b3fc3ddcb4b2359a22c7b83cd2d52af4e0eb8492d7c6816919.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/23-c2cb3b9f878fce4b89df42ab6d8f83a3952aeae604162e6ec61022134356ea32.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/24-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
-      }
-    },
-    "12.5": {
-      "title": "Hiatus Illustration",
-      "volume": "",
-      "last_updated": "1732348800",
-      "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/5853d3a50d6b8d082438b14e25aa6308/1-51ef8f7f5e7bbd1d66ac13400c07e59cc62f4fe43baf11d9ce96b847b8bd6089.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/5c10a28773066b1bdc7dbb0a6ed72c32/24-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "13": {
@@ -478,7 +483,8 @@
       "volume": "",
       "last_updated": "1735094400",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/1-b955ac366c4a198c7c13637d15af21b7590d46c378f9feb23c02b1190e0cb438.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/1-b955ac366c4a198c7c13637d15af21b7590d46c378f9feb23c02b1190e0cb438.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/2-5305238eeefb11360e473c7a5672590b6c0115e6c9c4ddf7faecb6fe5971e4d2.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/3-e5193668bb280563a179106499b008124abe413df891c49c4ced2dc39a1b6d9d.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/4-084f6594e0d84cf68a2a8df8ec7844511be433cd98fed78bfb0958409d844788.png",
@@ -496,7 +502,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/16-95dd924bc79d704e6ba32d472184a18bdcb3768e5b652b0aa30a1a13214df649.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/17-e2962cfd7db366ef8c14626eda6fc7474c93784c50f32ef743238334bea6a480.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/18-2b65225918e0e7e6b0d287556f048a9596202f9a756377d4d0b58f47447eaf22.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/19-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/fcd2be19898519df57b811c42f1400f4/19-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "14": {
@@ -504,7 +511,8 @@
       "volume": "",
       "last_updated": "1737600000",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/1-a4edfab69986f10c169fcf5f99c85f6d3ff9b71a326e6815720d2ca9fa28ae32.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/1-a4edfab69986f10c169fcf5f99c85f6d3ff9b71a326e6815720d2ca9fa28ae32.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/2-dd5b2bc4aeb5f1a16c2bcf3b5a1699b82af8732c21a28953223949246e319b03.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/3-369cf631df0e8a2629b5345e0caec239b6862236b640c83d42b2a2f89074d01b.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/4-3f7a387dec541b54c37842849ed6aa08cc290b380014a389f75703fb6fcaf12c.png",
@@ -525,7 +533,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/19-24f117ffcfdb832082f879f1be27e53293d2f99bf035e8b3e739da7138e72bdd.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/20-e3606a0204109cfcc56199366dc71c56ea9644e32cb3194dd3669f602323a60b.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/21-b2a34d039c529606e586bbc47b09d604acc97c93d8bc53a35a09269cd0264f96.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/c772ba5998468c7782d0b95953858371/22-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "15": {
@@ -533,7 +542,8 @@
       "volume": "",
       "last_updated": "1738464000",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/1-5ec5fbc3743c425afba62f9f424bc658857cb1127d5d27a8188dca5672a781fa.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/1-5ec5fbc3743c425afba62f9f424bc658857cb1127d5d27a8188dca5672a781fa.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/2-964513cea4f70c66267e0e830eda0bc0473840c2a83397292b74f9d04607e5ce.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/3-17d9db9228192027ae892cd8d6e625ef0f2cc6b78fe69fd3e299963374ba52c1.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/4-c9bdd07f48bf406f46556b1288f8799681216330b30e696d1434e92c3b189680.png",
@@ -550,7 +560,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/15-dc054de6651a768f847ed094246b039149376d52bd9b227fbd245d126492d24d.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/16-0bac608ebaa13f889e01cb515dd759b1680bfd78b20b0a70a320fbc8dcd0e5b1.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/17-01c823ea49c5e45604c3e24bdb99457806a0e6d729310b372d373466163b8c2a.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/18-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/5de4bb388f0617a7cbc2a1e0d2a8c369/18-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "16": {
@@ -558,7 +569,8 @@
       "volume": "",
       "last_updated": "1738896000",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/1-9dcb2a1e26ebc19433105ec3cbda0ba388b6a4aa013621c1db534cfae1d675ec.png",
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/1-9dcb2a1e26ebc19433105ec3cbda0ba388b6a4aa013621c1db534cfae1d675ec.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/2-964cb8528a323b9f5fd0820fa1e6cd99b990cebc64960defe99ce4d4be804e41.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/3-1a26c44645c804ffc97cd5b755b260abf9c10a7afa90e61cfc578219360a6289.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/4-05fc5ebda54f89de49dfa28b05a731cb9e249e646dd62921036cd27c2d119907.png",
@@ -580,7 +592,8 @@
           "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/20-1cc4b39c7df7ac24c3e660e328fc79e4d96e387a7ccefc75c7aa60ed0cb32429.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/21-6649cd9d568bd72f6328aa671eb1e4c2393d9bc6ce364c454379ba3723be73a9.png",
           "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/22-02775f68495650e18192947a767ab1e14bc2580094be7857575f004d994051a6.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/23-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/e127e580c38f66a2b8b7f273bb11d75a/23-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"
+        ]
       }
     },
     "17": {
@@ -588,26 +601,28 @@
       "volume": "",
       "last_updated": "1741401600",
       "groups": {
-        "Aphrodite Scans": ["https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/1-9915deb1ea27791b719adc90635bc0fe731a19807cb51ade22414e6e20c5fc7f.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/2-e22cc373ced5fa24183b6d7eb751566bee330f5a66c85c7f7c3001017f965337.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/3-a800bc9eaffd452126a795d806da8b0245eb1b7b96a953ca3f8bc1e323075b5a.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/4-1dd7cf5858561634f65d3b35c67874258047ace8f14c053d2ed814e4967aacea.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/5-37a2930971661ee56fe7b67ee163b6b3a94db51f41ee2984ad416c319c57dec3.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/6-435af5fb07cec6d8083ab5d2f4c5d3817d3a061f05dd3c26cae68bcb19ee61c3.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/7-8f933d0a22b2d68b9b59cb8ee4e660039016518ef512f50fb90efe1433366fcb.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/8-ca784b126db28d6b0172901088febe60811feb79bf99ae006392d7900865ccb5.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/9-8679953001dea52731279b23b99509967cdbe2db9b2c3eaf8dd5ecbe73c27d0c.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/10-0005a0c80bf0c3d7a4e346badb4f46422facd1a7c52a28f727a1d01ca39b1532.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/11-24559e1b9aed47259f57301cdc12fa49f452edd0fc49362045496f112ca7d306.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/12-b7b7477fa759516d1659e7e0d9a08b753eb5ac13529d0bf9a83210b0a12f2e3d.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/13-059e01dda9f844c11b76bb4758fbc34b546fcbe9a61b4d9a024e4dfe8ab21963.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/14-df3546f1869433c409ed84b0a3754b2841f52e5a60daab90a7afa8df9d835f18.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/15-592f0aacdf1429446222e98277be48892ad234e5ad97d5a93f5f7063a3145d28.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/16-c4b10326448fdd6af52a548818354cd10fc679a63bd2331f74e376c3163a0293.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/17-2231837fbad41d41a5d6f8fe675e8afb0aa6f401dc298db6ff685cfaee7ebcc3.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/18-e15669b0d1bcca4212ea27d2d655214974fb02b3e932cac0c2726228201b518c.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/19-714f8a864c62b01e89835c1ee04165fe5f7c68b9eb5d7277ba0426a28a005120.png",
-          "https://cmdxd98sb0x3yprd.mangadex.network/data/d4f3ad6701fbd1d1e543bca98c618c4e/20-6337e819c6722bad00b95f7b35b93a5ab03263243552b626c5fdd0303b55fe62.png"]
+        "Aphrodite Scans": [
+          "https://i.redd.it/4vm2yyafntdf1.png",
+          "https://i.redd.it/0yyxhuafntdf1.png",
+          "https://i.redd.it/huwurvafntdf1.png",
+          "https://i.redd.it/389ugyafntdf1.png",
+          "https://i.redd.it/jnk140bfntdf1.png",
+          "https://i.redd.it/kwpjh0bfntdf1.png",
+          "https://i.redd.it/99s2k4bfntdf1.png",
+          "https://i.redd.it/078b42bfntdf1.png",
+          "https://i.redd.it/8nd2t5bfntdf1.png",
+          "https://i.redd.it/xxaz83bfntdf1.png",
+          "https://i.redd.it/wyca98bfntdf1.png",
+          "https://i.redd.it/dwnxuabfntdf1.png",
+          "https://i.redd.it/4us2ebbfntdf1.png",
+          "https://i.redd.it/bj0mzbbfntdf1.png",
+          "https://i.redd.it/7rbzbcbfntdf1.png",
+          "https://i.redd.it/fyc6kebfntdf1.png",
+          "https://i.redd.it/d9j3xabfntdf1.png",
+          "https://i.redd.it/jma6vebfntdf1.png",
+          "https://i.redd.it/e42zpbefntdf1.png",
+          "https://i.redd.it/tw35mgbfntdf1.png"
+        ]
       }
     },
     "18": {
@@ -732,7 +747,26 @@
           "https://i.redd.it/crn5di9z6vcf1.png"
         ]
       }
+    },
+    "7.5": {
+      "title": "Hiatus Illustration",
+      "volume": "",
+      "last_updated": "1728028800",
+      "groups": {
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/7b789d2347fffdcdf4c6aaac23b25053/1-4bff24029d2ac5ffc29ad3c65b3b526ec736b6ef77b1e57a2d28fe72908d7b2a.png"
+        ]
+      }
+    },
+    "12.5": {
+      "title": "Hiatus Illustration",
+      "volume": "",
+      "last_updated": "1732348800",
+      "groups": {
+        "Aphrodite Scans": [
+          "https://cmdxd98sb0x3yprd.mangadex.network/data/5853d3a50d6b8d082438b14e25aa6308/1-51ef8f7f5e7bbd1d66ac13400c07e59cc62f4fe43baf11d9ce96b847b8bd6089.png"
+        ]
+      }
     }
   }
 }
-
