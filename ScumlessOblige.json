@@ -4,6 +4,9 @@
   "artist": "Oosaki Pekomaru",
   "author": "Avatar",
   "cover": "https://scyllacomics.xyz/storage/covers/685791ab8ca99.jpg",
+  "genres": ["Action", "Comedy", "Fantasy", "Isekai", "Romance", "Supernatural", "Tragedy"],
+  "themes": ["Harem", "Magic", "School", "Video Games", "Reincarnation"],
+  "demographic": "Seinen",
   "chapters": {
     "1": {
       "title": "1",
